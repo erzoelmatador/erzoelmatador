@@ -13,3 +13,5 @@ I own a silly orange cat!
 I love games and eating food.
 
 I am also trying to be a game developers.
+
+I am also new to coding but learning
